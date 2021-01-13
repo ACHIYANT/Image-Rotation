@@ -1,5 +1,5 @@
 //
-//  main.cpp
+//  imagerotation.cpp
 //  opencvproject
 //
 //  Created by ACHIYANT  on 25/12/20.
