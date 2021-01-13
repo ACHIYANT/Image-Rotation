@@ -27,14 +27,14 @@ Now Install XCode from Appstore or from above given link.
 
 	Now click on “signing and capabilities” option and under “Hardened runtime” just check the “Disable library validation” option.
 
-	Now move to “main.cpp “from your left pane under your project name and copy the program given in this repository.
+	Now move to “main.cpp “from your left pane under your project name and copy the program given uder **imagerotation.cpp** in this repository.
 
 	Congrats! After so many steps you are done now. Click on build and try it.
 
 
  **If you need video tutorial for use of open cv C++ with XCode then go through with this video tutorial :- https://www.youtube.com/watch?v=DnQoPaYGFzw&feature=youtu.be&ab_channel=JaydeepGubba
  
-Video credit goes to original creator.
+**Video credit goes to original creator.
 
 
 ## Window User 
@@ -45,7 +45,7 @@ https://medium.com/analytics-vidhya/vs-code-with-opencv-c-on-windows-10-explaine
 **If you need video tutorial for use of open cv C++ with XCode then go through with this video tutorial: -
 https://youtu.be/riArxlmRMoQ
 
-Video credit goes to original creator
+**Video credit goes to original creator
 
 
 
