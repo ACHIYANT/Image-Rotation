@@ -1,8 +1,9 @@
 //
 //  main.cpp
-//  opencvtest
+//  opencvproject
 //
 //  Created by ACHIYANT  on 25/12/20.
+//  Created with Mac OS (XCode).
 //
 
 #include <iostream>
